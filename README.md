@@ -26,7 +26,7 @@
 [보여줘라 아티스트처럼](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788927805427&orderClick=LAG&Kc=)<br>
 
 ### 읽은 책
-[유세복의 ENGLIST++: 입문편](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994797250&orderClick=LAG&Kc=) (2019.11)<br>
+[유세복의 ENGLISH++: 입문편](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994797250&orderClick=LAG&Kc=) (2019.11)<br>
 [누워서 읽는 알고리즘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482274&orderClick=LAG&Kc=) (2019.12)<br>
 [DOM을 깨우치다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994774510&orderClick=LEa&Kc=) (2020.01)<br>
 [탤런트코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788901096414&orderClick=LEa&Kc=) (2020.01)<br>
