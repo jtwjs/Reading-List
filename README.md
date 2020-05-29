@@ -4,12 +4,12 @@
 3. 독서 우선순위 리스트를 작성하여 다음에 읽을 책을 구분한다.
 
 ### 읽고있는 책
-[딥 워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788937434082&orderClick=LEa&Kc=) (2020.05.11 ~) <br>
+[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)<br>
+<br>(2020.05.29 ~)
 [~~자바 웹 프로그래밍~~](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998756680&orderClick=LAG&Kc=)<br>
 ### 읽을 책 (우선순위 정렬)
 
 [익스트림 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268104&orderClick=LEa&Kc=)<br>
-[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)<br>
 [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261024&orderClick=LAG&Kc=)<br>
 [패턴을 활용한 리팩터링](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268166&orderClick=LAG&Kc=)<br>
 [어떻게 공부할 것인가](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788937834868&orderClick=LEa&Kc=)<br>
@@ -34,3 +34,4 @@
 [IT 개발자의 영어 필살기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909093&orderClick=LEa&Kc=) (2020.03)<br>
 [프로그래머의 길 멘토에게 묻다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268807&orderClick=LAG&Kc=) (2020.03)<br>
 [CODE](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LAG&Kc=) (2020.04.10 ~ 2020.05.10)
+[딥 워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788937434082&orderClick=LEa&Kc=) (2020.05.11 ~ 2020.05.28) 
