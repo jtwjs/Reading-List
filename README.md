@@ -4,9 +4,8 @@
 3. 독서 우선순위 리스트를 작성하여 다음에 읽을 책을 구분한다.
 
 ### 읽고있는 책
-[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)<br>
-<br>(2020.05.29 ~)
-[~~자바 웹 프로그래밍~~](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998756680&orderClick=LAG&Kc=)<br>
+[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)(2020.05.29 ~)
+<br><br>[~~자바 웹 프로그래밍~~](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998756680&orderClick=LAG&Kc=)<br>
 ### 읽을 책 (우선순위 정렬)
 
 [익스트림 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268104&orderClick=LEa&Kc=)<br>
@@ -33,5 +32,5 @@
 [아주 작은 습관의 힘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162540640&orderClick=LEa&Kc=) (2020.02)<br>
 [IT 개발자의 영어 필살기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909093&orderClick=LEa&Kc=) (2020.03)<br>
 [프로그래머의 길 멘토에게 묻다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268807&orderClick=LAG&Kc=) (2020.03)<br>
-[CODE](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LAG&Kc=) (2020.04.10 ~ 2020.05.10)
+[CODE](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LAG&Kc=) (2020.04.10 ~ 2020.05.10)<br>
 [딥 워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788937434082&orderClick=LEa&Kc=) (2020.05.11 ~ 2020.05.28) 
