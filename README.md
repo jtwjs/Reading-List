@@ -4,7 +4,7 @@
 3. 독서 우선순위 리스트를 작성하여 다음에 읽을 책을 구분한다.
 
 ### 읽고있는 책
-[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)(2020.05.29 ~)
+[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)(2020.06.01 ~)
 <br><br>[~~자바 웹 프로그래밍~~](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998756680&orderClick=LAG&Kc=)<br>
 ### 읽을 책 (우선순위 정렬)
 
